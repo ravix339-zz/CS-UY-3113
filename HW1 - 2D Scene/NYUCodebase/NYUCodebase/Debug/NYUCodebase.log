@@ -1,0 +1,26 @@
+﻿  ShaderProgram.cpp
+  Matrix.cpp
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(213): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\matrix.cpp(214): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\main.cpp(64): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\main.cpp(90): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\main.cpp(90): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\main.cpp(95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\main.cpp(101): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\main.cpp(101): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw1 - 2d scene\nyucodebase\nyucodebase\main.cpp(103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  NYUCodebase.vcxproj -> C:\Users\Ravi Sinha\Documents\GitHub\CS-UY-3113\HW1 - 2D Scene\NYUCodebase\Debug\NYUCodebase.exe
