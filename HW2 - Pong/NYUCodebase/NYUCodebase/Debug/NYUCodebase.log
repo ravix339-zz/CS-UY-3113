@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw2 - pong\nyucodebase\nyucodebase\main.cpp(50): warning C4715: 'bar::getCoordinate': not all control paths return a value
+  NYUCodebase.vcxproj -> C:\Users\Ravi Sinha\Documents\CS3113\CS-UY-3113\HW2 - Pong\NYUCodebase\Debug\NYUCodebase.exe
