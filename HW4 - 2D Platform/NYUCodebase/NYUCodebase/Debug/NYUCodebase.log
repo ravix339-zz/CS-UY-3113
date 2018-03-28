@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw4 - 2d platform\nyucodebase\nyucodebase\main.cpp(200): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw4 - 2d platform\nyucodebase\nyucodebase\main.cpp(200): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw4 - 2d platform\nyucodebase\nyucodebase\main.cpp(207): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw4 - 2d platform\nyucodebase\nyucodebase\main.cpp(234): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw4 - 2d platform\nyucodebase\nyucodebase\main.cpp(239): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw4 - 2d platform\nyucodebase\nyucodebase\main.cpp(244): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw4 - 2d platform\nyucodebase\nyucodebase\main.cpp(249): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw4 - 2d platform\nyucodebase\nyucodebase\main.cpp(259): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw4 - 2d platform\nyucodebase\nyucodebase\main.cpp(260): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw4 - 2d platform\nyucodebase\nyucodebase\main.cpp(370): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw4 - 2d platform\nyucodebase\nyucodebase\main.cpp(385): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  NYUCodebase.vcxproj -> C:\Users\Ravi Sinha\Documents\CS3113\CS-UY-3113\HW4 - 2D Platform\NYUCodebase\Debug\NYUCodebase.exe
