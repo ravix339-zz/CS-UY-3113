@@ -71,6 +71,12 @@ public:
 					other.velocity[i] += velocity[i];
 				}
 			}
+			position[0] += penetration.first * 0.5f;
+			position[1] += penetration.second * 0.5f;
+
+			other.position[0] -= penetration.first * 0.5f;
+			other.position[1] -= penetration.second * 0.5f;
+
 		}
 		return collided;
 	}
