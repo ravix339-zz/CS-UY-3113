@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw6 - space invaders (with sound)\nyucodebase\nyucodebase\main.cpp(200): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw6 - space invaders (with sound)\nyucodebase\nyucodebase\main.cpp(327): warning C4018: '<': signed/unsigned mismatch
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw6 - space invaders (with sound)\nyucodebase\nyucodebase\main.cpp(328): warning C4018: '<': signed/unsigned mismatch
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw6 - space invaders (with sound)\nyucodebase\nyucodebase\main.cpp(329): warning C4018: '<': signed/unsigned mismatch
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw6 - space invaders (with sound)\nyucodebase\nyucodebase\main.cpp(341): warning C4018: '<': signed/unsigned mismatch
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw6 - space invaders (with sound)\nyucodebase\nyucodebase\main.cpp(342): warning C4018: '<': signed/unsigned mismatch
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw6 - space invaders (with sound)\nyucodebase\nyucodebase\main.cpp(353): warning C4018: '<': signed/unsigned mismatch
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw6 - space invaders (with sound)\nyucodebase\nyucodebase\main.cpp(354): warning C4018: '<': signed/unsigned mismatch
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw6 - space invaders (with sound)\nyucodebase\nyucodebase\main.cpp(380): warning C4018: '<': signed/unsigned mismatch
+c:\users\ravi sinha\documents\github\cs-uy-3113\hw6 - space invaders (with sound)\nyucodebase\nyucodebase\main.cpp(584): warning C4018: '<': signed/unsigned mismatch
+  NYUCodebase.vcxproj -> C:\Users\Ravi Sinha\Documents\GitHub\CS-UY-3113\HW6 - Space Invaders (with Sound)\NYUCodebase\Debug\NYUCodebase.exe
