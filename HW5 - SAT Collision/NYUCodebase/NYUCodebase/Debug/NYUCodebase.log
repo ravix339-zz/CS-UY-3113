@@ -1,6 +1,6 @@
 ﻿  main.cpp
-c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw5 - sat collision\nyucodebase\nyucodebase\main.cpp(125): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw5 - sat collision\nyucodebase\nyucodebase\main.cpp(128): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw5 - sat collision\nyucodebase\nyucodebase\main.cpp(132): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\ravi sinha\documents\cs3113\cs-uy-3113\hw5 - sat collision\nyucodebase\nyucodebase\main.cpp(143): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
-  NYUCodebase.vcxproj -> C:\Users\Ravi Sinha\Documents\CS3113\CS-UY-3113\HW5 - SAT Collision\NYUCodebase\Debug\NYUCodebase.exe
+c:\users\ravi\documents\github\cs-uy-3113\hw5 - sat collision\nyucodebase\nyucodebase\main.cpp(124): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ravi\documents\github\cs-uy-3113\hw5 - sat collision\nyucodebase\nyucodebase\main.cpp(127): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ravi\documents\github\cs-uy-3113\hw5 - sat collision\nyucodebase\nyucodebase\main.cpp(131): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ravi\documents\github\cs-uy-3113\hw5 - sat collision\nyucodebase\nyucodebase\main.cpp(142): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+  NYUCodebase.vcxproj -> C:\Users\Ravi\Documents\GitHub\CS-UY-3113\HW5 - SAT Collision\NYUCodebase\Debug\NYUCodebase.exe
