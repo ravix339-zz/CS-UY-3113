@@ -1,0 +1,104 @@
+﻿  main.cpp
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(382): warning C4018: '<': signed/unsigned mismatch
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(455): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(486): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(490): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(494): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(497): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(499): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(558): warning C4018: '<': signed/unsigned mismatch
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(656): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(700): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(830): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(950): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(1214): warning C4018: '>=': signed/unsigned mismatch
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(1217): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(1246): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(1301): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(1302): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(1352): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(1429): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(1459): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\tuple(157): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\tuple(276): note: see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=float,
+              _Ty=int,
+              _Other=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\tuple(275): note: see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=float,
+              _Ty=int,
+              _Other=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\tuple(276): note: see reference to function template instantiation 'std::tuple<float,float>::tuple<std::_Exact_args_t,_Ty,_Ty,0>(_Tag,_This2 &&,_Ty &&)' being compiled
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\tuple(274): note: see reference to function template instantiation 'std::tuple<float,float>::tuple<std::_Exact_args_t,_Ty,_Ty,0>(_Tag,_This2 &&,_Ty &&)' being compiled
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\tuple(276): note: see reference to function template instantiation 'std::tuple<int,float,float>::tuple<std::_Exact_args_t,_Ty,_Ty,_Ty,0>(_Tag,_This2 &&,_Ty &&,_Ty &&)' being compiled
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\tuple(274): note: see reference to function template instantiation 'std::tuple<int,float,float>::tuple<std::_Exact_args_t,_Ty,_Ty,_Ty,0>(_Tag,_This2 &&,_Ty &&,_Ty &&)' being compiled
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\tuple(276): note: see reference to function template instantiation 'std::tuple<float,int,float,float>::tuple<std::_Exact_args_t,_Ty,int,int,int,0>(_Tag,_This2 &&,int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Ty=float,
+              _Tag=std::_Exact_args_t,
+              _This2=float
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\tuple(274): note: see reference to function template instantiation 'std::tuple<float,int,float,float>::tuple<std::_Exact_args_t,_Ty,int,int,int,0>(_Tag,_This2 &&,int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Ty=float,
+              _Tag=std::_Exact_args_t,
+              _This2=float
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\tuple(405): note: see reference to function template instantiation 'std::tuple<float,float,int,float,float>::tuple<std::_Exact_args_t,_Ty,_Ty,int,int,int,0>(_Tag,_This2 &&,_Ty &&,int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Ty=float,
+              _Tag=std::_Exact_args_t,
+              _This2=float
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\tuple(404): note: see reference to function template instantiation 'std::tuple<float,float,int,float,float>::tuple<std::_Exact_args_t,_Ty,_Ty,int,int,int,0>(_Tag,_This2 &&,_Ty &&,int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Ty=float,
+              _Tag=std::_Exact_args_t,
+              _This2=float
+          ]
+  c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(1144): note: see reference to function template instantiation 'std::tuple<float,float,int,float,float>::tuple<float,float,int,int,int,0>(_This2 &&,float &&,int &&,int &&,int &&)' being compiled
+          with
+          [
+              _This2=float
+          ]
+  c:\users\ravi sinha\documents\github\cs-uy-3113\final project\nyucodebase\nyucodebase\main.cpp(1144): note: see reference to function template instantiation 'std::tuple<float,float,int,float,float>::tuple<float,float,int,int,int,0>(_This2 &&,float &&,int &&,int &&,int &&)' being compiled
+          with
+          [
+              _This2=float
+          ]
+  NYUCodebase.vcxproj -> C:\Users\Ravi Sinha\Documents\GitHub\CS-UY-3113\Final Project\NYUCodebase\Debug\NYUCodebase.exe
