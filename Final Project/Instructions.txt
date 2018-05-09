@@ -1,0 +1,42 @@
+Welcome to the "Friendzone Spheres" Game! :) 
+Developed by Ravi Sinha
+These are the instructions for the game.
+*************************************************************************************************************************
+When the game starts you will be presented with a menu. The there are two clickable options: "Start Game" and "Exit"
+By selecting "Exit" you will be exiting the game and by selecting "Start Game", you will be starting the game (obviously).
+
+This game, as is, is a two player game. Player 1 begins on the left side of the screen and is the Male character whereas
+Player 2 starts on the right side of the screen and is the female character. The map is procedurely generated and therefore,
+each time the game starts, both players will begin on a different ground formation than the previous time the game began.
+Keep in mind that the map expands towards the right so there is more area that the players can fight in.
+
+This game is a shooting game and there are 15 types of guns that are available to each player, each with their own unique
+fire rates, damages, bullet velocities, magazine sizes and ranges. These guns are all available to the players throughout
+the game.
+
+***************************************************************************************************************************
+Controls:
+
+Player 1:
+ W - Jump
+ A - Move left
+ D - Move right
+ S - Shoot
+ Q - Go one gun backwards (cycle backwards)
+ E - Go one gun forwards (cycle forwards)
+
+Player 2:
+ Up Arrow 			- Jump
+ Left Arrow 			- Move left
+ Right Arrow 			- Move right
+ Down Arrow (OR Right Shift)    - Shoot
+ Page Down (OR period (.))      - Go one gun backwards (cycle backwards)
+ Page Up (OR forward slash (/)) - Go one gun forwards (cycle forwards)
+
+****************************************************************************************************************************
+How to Win:
+
+At the top of the screen (during the game), each player's hp will be displayed. The goal of the game is to shoot the bullets
+(hearts) at the opponent until their hp reaches 0. If your opponent's hp hits zero, you win!
+
+**************************************************************************************************************************** 
